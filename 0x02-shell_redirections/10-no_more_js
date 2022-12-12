@@ -1,2 +1,2 @@
 #!/bin/bash
-find {tmp} -name {.js} -exec rm -rf {}
+find /tmp -name .js -exec rm -rf 
