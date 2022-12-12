@@ -2,4 +2,4 @@
 cd 
 cd .. 
 cd tmp 
-./iamafile
+stat iamafile
